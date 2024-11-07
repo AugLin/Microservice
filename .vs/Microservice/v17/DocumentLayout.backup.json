@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Antra\\Microservice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EADB443B-2665-4D2A-B3F3-13F9FE4C1CF2}|ReviewMicroservice\\ReviewMicroservice.csproj|d:\\antra\\microservice\\reviewmicroservice\\controllers\\customerreviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADB443B-2665-4D2A-B3F3-13F9FE4C1CF2}|ReviewMicroservice\\ReviewMicroservice.csproj|solutionrelative:reviewmicroservice\\controllers\\customerreviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerReviewController.cs",
+              "DocumentMoniker": "D:\\Antra\\Microservice\\ReviewMicroservice\\Controllers\\CustomerReviewController.cs",
+              "RelativeDocumentMoniker": "ReviewMicroservice\\Controllers\\CustomerReviewController.cs",
+              "ToolTip": "D:\\Antra\\Microservice\\ReviewMicroservice\\Controllers\\CustomerReviewController.cs",
+              "RelativeToolTip": "ReviewMicroservice\\Controllers\\CustomerReviewController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAswE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:48:20.486Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

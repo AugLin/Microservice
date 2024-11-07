@@ -1,0 +1,14 @@
+D:\Antra\Microservice\OrderMicroservice.ApplicationCore\bin\Debug\net8.0\OrderMicroservice.ApplicationCore.deps.json
+D:\Antra\Microservice\OrderMicroservice.ApplicationCore\bin\Debug\net8.0\OrderMicroservice.ApplicationCore.runtimeconfig.json
+D:\Antra\Microservice\OrderMicroservice.ApplicationCore\bin\Debug\net8.0\OrderMicroservice.ApplicationCore.dll
+D:\Antra\Microservice\OrderMicroservice.ApplicationCore\bin\Debug\net8.0\OrderMicroservice.ApplicationCore.pdb
+D:\Antra\Microservice\OrderMicroservice.ApplicationCore\obj\Debug\net8.0\OrderMicroservice.ApplicationCore.csproj.AssemblyReference.cache
+D:\Antra\Microservice\OrderMicroservice.ApplicationCore\obj\Debug\net8.0\OrderMicroservice.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Antra\Microservice\OrderMicroservice.ApplicationCore\obj\Debug\net8.0\OrderMicroservice.ApplicationCore.AssemblyInfoInputs.cache
+D:\Antra\Microservice\OrderMicroservice.ApplicationCore\obj\Debug\net8.0\OrderMicroservice.ApplicationCore.AssemblyInfo.cs
+D:\Antra\Microservice\OrderMicroservice.ApplicationCore\obj\Debug\net8.0\OrderMicroservice.ApplicationCore.csproj.CoreCompileInputs.cache
+D:\Antra\Microservice\OrderMicroservice.ApplicationCore\obj\Debug\net8.0\OrderMicroservice.ApplicationCore.dll
+D:\Antra\Microservice\OrderMicroservice.ApplicationCore\obj\Debug\net8.0\refint\OrderMicroservice.ApplicationCore.dll
+D:\Antra\Microservice\OrderMicroservice.ApplicationCore\obj\Debug\net8.0\OrderMicroservice.ApplicationCore.pdb
+D:\Antra\Microservice\OrderMicroservice.ApplicationCore\obj\Debug\net8.0\OrderMicroservice.ApplicationCore.genruntimeconfig.cache
+D:\Antra\Microservice\OrderMicroservice.ApplicationCore\obj\Debug\net8.0\ref\OrderMicroservice.ApplicationCore.dll

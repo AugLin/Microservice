@@ -1,0 +1,17 @@
+D:\Antra\Microservice\ShippingMicroservice.Infrastructure\bin\Debug\net8.0\ShippingMicroservice.Infrastructure.deps.json
+D:\Antra\Microservice\ShippingMicroservice.Infrastructure\bin\Debug\net8.0\ShippingMicroservice.Infrastructure.runtimeconfig.json
+D:\Antra\Microservice\ShippingMicroservice.Infrastructure\bin\Debug\net8.0\ShippingMicroservice.Infrastructure.dll
+D:\Antra\Microservice\ShippingMicroservice.Infrastructure\bin\Debug\net8.0\ShippingMicroservice.Infrastructure.pdb
+D:\Antra\Microservice\ShippingMicroservice.Infrastructure\bin\Debug\net8.0\ShippingMicroservice.ApplicationCore.dll
+D:\Antra\Microservice\ShippingMicroservice.Infrastructure\bin\Debug\net8.0\ShippingMicroservice.ApplicationCore.pdb
+D:\Antra\Microservice\ShippingMicroservice.Infrastructure\obj\Debug\net8.0\ShippingMicroservice.Infrastructure.csproj.AssemblyReference.cache
+D:\Antra\Microservice\ShippingMicroservice.Infrastructure\obj\Debug\net8.0\ShippingMicroservice.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Antra\Microservice\ShippingMicroservice.Infrastructure\obj\Debug\net8.0\ShippingMicroservice.Infrastructure.AssemblyInfoInputs.cache
+D:\Antra\Microservice\ShippingMicroservice.Infrastructure\obj\Debug\net8.0\ShippingMicroservice.Infrastructure.AssemblyInfo.cs
+D:\Antra\Microservice\ShippingMicroservice.Infrastructure\obj\Debug\net8.0\ShippingMicroservice.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Antra\Microservice\ShippingMicroservice.Infrastructure\obj\Debug\net8.0\Shipping.D3AE3B65.Up2Date
+D:\Antra\Microservice\ShippingMicroservice.Infrastructure\obj\Debug\net8.0\ShippingMicroservice.Infrastructure.dll
+D:\Antra\Microservice\ShippingMicroservice.Infrastructure\obj\Debug\net8.0\refint\ShippingMicroservice.Infrastructure.dll
+D:\Antra\Microservice\ShippingMicroservice.Infrastructure\obj\Debug\net8.0\ShippingMicroservice.Infrastructure.pdb
+D:\Antra\Microservice\ShippingMicroservice.Infrastructure\obj\Debug\net8.0\ShippingMicroservice.Infrastructure.genruntimeconfig.cache
+D:\Antra\Microservice\ShippingMicroservice.Infrastructure\obj\Debug\net8.0\ref\ShippingMicroservice.Infrastructure.dll

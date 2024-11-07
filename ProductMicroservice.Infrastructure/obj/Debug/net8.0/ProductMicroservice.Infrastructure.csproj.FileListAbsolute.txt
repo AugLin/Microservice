@@ -1,0 +1,17 @@
+D:\Antra\Microservice\ProductMicroservice.Infrastructure\bin\Debug\net8.0\ProductMicroservice.Infrastructure.deps.json
+D:\Antra\Microservice\ProductMicroservice.Infrastructure\bin\Debug\net8.0\ProductMicroservice.Infrastructure.runtimeconfig.json
+D:\Antra\Microservice\ProductMicroservice.Infrastructure\bin\Debug\net8.0\ProductMicroservice.Infrastructure.dll
+D:\Antra\Microservice\ProductMicroservice.Infrastructure\bin\Debug\net8.0\ProductMicroservice.Infrastructure.pdb
+D:\Antra\Microservice\ProductMicroservice.Infrastructure\bin\Debug\net8.0\ProductMicroservice.ApplicationCore.dll
+D:\Antra\Microservice\ProductMicroservice.Infrastructure\bin\Debug\net8.0\ProductMicroservice.ApplicationCore.pdb
+D:\Antra\Microservice\ProductMicroservice.Infrastructure\obj\Debug\net8.0\ProductMicroservice.Infrastructure.csproj.AssemblyReference.cache
+D:\Antra\Microservice\ProductMicroservice.Infrastructure\obj\Debug\net8.0\ProductMicroservice.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Antra\Microservice\ProductMicroservice.Infrastructure\obj\Debug\net8.0\ProductMicroservice.Infrastructure.AssemblyInfoInputs.cache
+D:\Antra\Microservice\ProductMicroservice.Infrastructure\obj\Debug\net8.0\ProductMicroservice.Infrastructure.AssemblyInfo.cs
+D:\Antra\Microservice\ProductMicroservice.Infrastructure\obj\Debug\net8.0\ProductMicroservice.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Antra\Microservice\ProductMicroservice.Infrastructure\obj\Debug\net8.0\ProductM.62CD6747.Up2Date
+D:\Antra\Microservice\ProductMicroservice.Infrastructure\obj\Debug\net8.0\ProductMicroservice.Infrastructure.dll
+D:\Antra\Microservice\ProductMicroservice.Infrastructure\obj\Debug\net8.0\refint\ProductMicroservice.Infrastructure.dll
+D:\Antra\Microservice\ProductMicroservice.Infrastructure\obj\Debug\net8.0\ProductMicroservice.Infrastructure.pdb
+D:\Antra\Microservice\ProductMicroservice.Infrastructure\obj\Debug\net8.0\ProductMicroservice.Infrastructure.genruntimeconfig.cache
+D:\Antra\Microservice\ProductMicroservice.Infrastructure\obj\Debug\net8.0\ref\ProductMicroservice.Infrastructure.dll

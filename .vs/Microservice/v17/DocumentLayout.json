@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Antra\\Microservice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4AABA9C-4EC1-412A-A1F7-B9202C4F614F}|PromotionService\\PromotionService.csproj|d:\\antra\\microservice\\promotionservice\\controllers\\promotioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4AABA9C-4EC1-412A-A1F7-B9202C4F614F}|PromotionService\\PromotionService.csproj|solutionrelative:promotionservice\\controllers\\promotioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADB08B4-ADD5-4AEA-8BF7-8E60D5677DD1}|PromotionService.ApplicationCore\\PromotionService.ApplicationCore.csproj|d:\\antra\\microservice\\promotionservice.applicationcore\\repositories\\ipromotionsalesrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADB08B4-ADD5-4AEA-8BF7-8E60D5677DD1}|PromotionService.ApplicationCore\\PromotionService.ApplicationCore.csproj|solutionrelative:promotionservice.applicationcore\\repositories\\ipromotionsalesrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5FEC02-DB4F-4B79-8F59-8A206D283077}|PromotionService.Infrastructure\\PromotionService.Infrastructure.csproj|d:\\antra\\microservice\\promotionservice.infrastructure\\repositories\\promotionsalesrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5FEC02-DB4F-4B79-8F59-8A206D283077}|PromotionService.Infrastructure\\PromotionService.Infrastructure.csproj|solutionrelative:promotionservice.infrastructure\\repositories\\promotionsalesrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPromotionSalesRepositoryAsync.cs",
+              "DocumentMoniker": "D:\\Antra\\Microservice\\PromotionService.ApplicationCore\\Repositories\\IPromotionSalesRepositoryAsync.cs",
+              "RelativeDocumentMoniker": "PromotionService.ApplicationCore\\Repositories\\IPromotionSalesRepositoryAsync.cs",
+              "ToolTip": "D:\\Antra\\Microservice\\PromotionService.ApplicationCore\\Repositories\\IPromotionSalesRepositoryAsync.cs",
+              "RelativeToolTip": "PromotionService.ApplicationCore\\Repositories\\IPromotionSalesRepositoryAsync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T19:28:14.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PromotionSalesRepositoryAsync.cs",
+              "DocumentMoniker": "D:\\Antra\\Microservice\\PromotionService.Infrastructure\\Repositories\\PromotionSalesRepositoryAsync.cs",
+              "RelativeDocumentMoniker": "PromotionService.Infrastructure\\Repositories\\PromotionSalesRepositoryAsync.cs",
+              "ToolTip": "D:\\Antra\\Microservice\\PromotionService.Infrastructure\\Repositories\\PromotionSalesRepositoryAsync.cs",
+              "RelativeToolTip": "PromotionService.Infrastructure\\Repositories\\PromotionSalesRepositoryAsync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T19:24:19.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PromotionController.cs",
+              "DocumentMoniker": "D:\\Antra\\Microservice\\PromotionService\\Controllers\\PromotionController.cs",
+              "RelativeDocumentMoniker": "PromotionService\\Controllers\\PromotionController.cs",
+              "ToolTip": "D:\\Antra\\Microservice\\PromotionService\\Controllers\\PromotionController.cs",
+              "RelativeToolTip": "PromotionService\\Controllers\\PromotionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T19:18:35.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

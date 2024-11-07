@@ -1,0 +1,17 @@
+D:\Antra\Microservice\OrderMicroService.Infrastructure\bin\Debug\net8.0\OrderMicroService.Infrastructure.deps.json
+D:\Antra\Microservice\OrderMicroService.Infrastructure\bin\Debug\net8.0\OrderMicroService.Infrastructure.runtimeconfig.json
+D:\Antra\Microservice\OrderMicroService.Infrastructure\bin\Debug\net8.0\OrderMicroService.Infrastructure.dll
+D:\Antra\Microservice\OrderMicroService.Infrastructure\bin\Debug\net8.0\OrderMicroService.Infrastructure.pdb
+D:\Antra\Microservice\OrderMicroService.Infrastructure\bin\Debug\net8.0\OrderMicroservice.ApplicationCore.dll
+D:\Antra\Microservice\OrderMicroService.Infrastructure\bin\Debug\net8.0\OrderMicroservice.ApplicationCore.pdb
+D:\Antra\Microservice\OrderMicroService.Infrastructure\obj\Debug\net8.0\OrderMicroService.Infrastructure.csproj.AssemblyReference.cache
+D:\Antra\Microservice\OrderMicroService.Infrastructure\obj\Debug\net8.0\OrderMicroService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Antra\Microservice\OrderMicroService.Infrastructure\obj\Debug\net8.0\OrderMicroService.Infrastructure.AssemblyInfoInputs.cache
+D:\Antra\Microservice\OrderMicroService.Infrastructure\obj\Debug\net8.0\OrderMicroService.Infrastructure.AssemblyInfo.cs
+D:\Antra\Microservice\OrderMicroService.Infrastructure\obj\Debug\net8.0\OrderMicroService.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Antra\Microservice\OrderMicroService.Infrastructure\obj\Debug\net8.0\OrderMic.1E4E037B.Up2Date
+D:\Antra\Microservice\OrderMicroService.Infrastructure\obj\Debug\net8.0\OrderMicroService.Infrastructure.dll
+D:\Antra\Microservice\OrderMicroService.Infrastructure\obj\Debug\net8.0\refint\OrderMicroService.Infrastructure.dll
+D:\Antra\Microservice\OrderMicroService.Infrastructure\obj\Debug\net8.0\OrderMicroService.Infrastructure.pdb
+D:\Antra\Microservice\OrderMicroService.Infrastructure\obj\Debug\net8.0\OrderMicroService.Infrastructure.genruntimeconfig.cache
+D:\Antra\Microservice\OrderMicroService.Infrastructure\obj\Debug\net8.0\ref\OrderMicroService.Infrastructure.dll

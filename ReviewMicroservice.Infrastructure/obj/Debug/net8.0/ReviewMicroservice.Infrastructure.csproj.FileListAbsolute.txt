@@ -1,0 +1,17 @@
+D:\Antra\Microservice\ReviewMicroservice.Infrastructure\bin\Debug\net8.0\ReviewMicroservice.Infrastructure.deps.json
+D:\Antra\Microservice\ReviewMicroservice.Infrastructure\bin\Debug\net8.0\ReviewMicroservice.Infrastructure.runtimeconfig.json
+D:\Antra\Microservice\ReviewMicroservice.Infrastructure\bin\Debug\net8.0\ReviewMicroservice.Infrastructure.dll
+D:\Antra\Microservice\ReviewMicroservice.Infrastructure\bin\Debug\net8.0\ReviewMicroservice.Infrastructure.pdb
+D:\Antra\Microservice\ReviewMicroservice.Infrastructure\bin\Debug\net8.0\ReviewMicroservice.ApplicationCore.dll
+D:\Antra\Microservice\ReviewMicroservice.Infrastructure\bin\Debug\net8.0\ReviewMicroservice.ApplicationCore.pdb
+D:\Antra\Microservice\ReviewMicroservice.Infrastructure\obj\Debug\net8.0\ReviewMicroservice.Infrastructure.csproj.AssemblyReference.cache
+D:\Antra\Microservice\ReviewMicroservice.Infrastructure\obj\Debug\net8.0\ReviewMicroservice.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Antra\Microservice\ReviewMicroservice.Infrastructure\obj\Debug\net8.0\ReviewMicroservice.Infrastructure.AssemblyInfoInputs.cache
+D:\Antra\Microservice\ReviewMicroservice.Infrastructure\obj\Debug\net8.0\ReviewMicroservice.Infrastructure.AssemblyInfo.cs
+D:\Antra\Microservice\ReviewMicroservice.Infrastructure\obj\Debug\net8.0\ReviewMicroservice.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Antra\Microservice\ReviewMicroservice.Infrastructure\obj\Debug\net8.0\ReviewMi.95B37537.Up2Date
+D:\Antra\Microservice\ReviewMicroservice.Infrastructure\obj\Debug\net8.0\ReviewMicroservice.Infrastructure.dll
+D:\Antra\Microservice\ReviewMicroservice.Infrastructure\obj\Debug\net8.0\refint\ReviewMicroservice.Infrastructure.dll
+D:\Antra\Microservice\ReviewMicroservice.Infrastructure\obj\Debug\net8.0\ReviewMicroservice.Infrastructure.pdb
+D:\Antra\Microservice\ReviewMicroservice.Infrastructure\obj\Debug\net8.0\ReviewMicroservice.Infrastructure.genruntimeconfig.cache
+D:\Antra\Microservice\ReviewMicroservice.Infrastructure\obj\Debug\net8.0\ref\ReviewMicroservice.Infrastructure.dll

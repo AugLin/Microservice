@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rUEe6OKQXiSXEVhweVJ4GmPYfCGOJ7B6yEjU7Qibs4I=",
+  "Source": "ShippingMicroservice",
+  "BasePath": "_content/ShippingMicroservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
