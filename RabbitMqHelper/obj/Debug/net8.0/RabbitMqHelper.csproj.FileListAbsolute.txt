@@ -1,0 +1,13 @@
+D:\Antra\Microservice\RabbitMqHelper\bin\Debug\net8.0\RabbitMqHelper.deps.json
+D:\Antra\Microservice\RabbitMqHelper\bin\Debug\net8.0\RabbitMqHelper.dll
+D:\Antra\Microservice\RabbitMqHelper\bin\Debug\net8.0\RabbitMqHelper.pdb
+D:\Antra\Microservice\RabbitMqHelper\obj\Debug\net8.0\RabbitMqHelper.csproj.AssemblyReference.cache
+D:\Antra\Microservice\RabbitMqHelper\obj\Debug\net8.0\RabbitMqHelper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Antra\Microservice\RabbitMqHelper\obj\Debug\net8.0\RabbitMqHelper.AssemblyInfoInputs.cache
+D:\Antra\Microservice\RabbitMqHelper\obj\Debug\net8.0\RabbitMqHelper.AssemblyInfo.cs
+D:\Antra\Microservice\RabbitMqHelper\obj\Debug\net8.0\RabbitMqHelper.csproj.CoreCompileInputs.cache
+D:\Antra\Microservice\RabbitMqHelper\obj\Debug\net8.0\RabbitMqHelper.sourcelink.json
+D:\Antra\Microservice\RabbitMqHelper\obj\Debug\net8.0\RabbitMqHelper.dll
+D:\Antra\Microservice\RabbitMqHelper\obj\Debug\net8.0\refint\RabbitMqHelper.dll
+D:\Antra\Microservice\RabbitMqHelper\obj\Debug\net8.0\RabbitMqHelper.pdb
+D:\Antra\Microservice\RabbitMqHelper\obj\Debug\net8.0\ref\RabbitMqHelper.dll

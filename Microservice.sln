@@ -33,15 +33,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReviewMicroservice", "Revie
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReviewMicroservice.Infrastructure", "ReviewMicroservice.Infrastructure\ReviewMicroservice.Infrastructure.csproj", "{9CCF8D25-409B-4E0C-A9D6-7BF5CE8CF0FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReviewMicroservice.ApplicationCore", "ReviewMicroservice.ApplicationCore\ReviewMicroservice.ApplicationCore.csproj", "{5D8F6B5B-E23A-4FEA-9B3B-56E78AA87081}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReviewMicroservice.ApplicationCore", "ReviewMicroservice.ApplicationCore\ReviewMicroservice.ApplicationCore.csproj", "{5D8F6B5B-E23A-4FEA-9B3B-56E78AA87081}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PromotionService", "PromotionService", "{468B500D-704A-45CC-8571-DCA2B107436C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromotionService", "PromotionService\PromotionService.csproj", "{D4AABA9C-4EC1-412A-A1F7-B9202C4F614F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PromotionService", "PromotionService\PromotionService.csproj", "{D4AABA9C-4EC1-412A-A1F7-B9202C4F614F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromotionService.ApplicationCore", "PromotionService.ApplicationCore\PromotionService.ApplicationCore.csproj", "{BADB08B4-ADD5-4AEA-8BF7-8E60D5677DD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PromotionService.ApplicationCore", "PromotionService.ApplicationCore\PromotionService.ApplicationCore.csproj", "{BADB08B4-ADD5-4AEA-8BF7-8E60D5677DD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromotionService.Infrastructure", "PromotionService.Infrastructure\PromotionService.Infrastructure.csproj", "{6D5FEC02-DB4F-4B79-8F59-8A206D283077}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PromotionService.Infrastructure", "PromotionService.Infrastructure\PromotionService.Infrastructure.csproj", "{6D5FEC02-DB4F-4B79-8F59-8A206D283077}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{B51622A3-6BB4-4E97-9705-6091B88EDD02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMqHelper", "RabbitMqHelper\RabbitMqHelper.csproj", "{70EE225E-2B3B-4C46-8E64-E9CEBF2EB9D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -109,6 +113,14 @@ Global
 		{6D5FEC02-DB4F-4B79-8F59-8A206D283077}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D5FEC02-DB4F-4B79-8F59-8A206D283077}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D5FEC02-DB4F-4B79-8F59-8A206D283077}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B51622A3-6BB4-4E97-9705-6091B88EDD02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B51622A3-6BB4-4E97-9705-6091B88EDD02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B51622A3-6BB4-4E97-9705-6091B88EDD02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B51622A3-6BB4-4E97-9705-6091B88EDD02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70EE225E-2B3B-4C46-8E64-E9CEBF2EB9D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70EE225E-2B3B-4C46-8E64-E9CEBF2EB9D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70EE225E-2B3B-4C46-8E64-E9CEBF2EB9D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70EE225E-2B3B-4C46-8E64-E9CEBF2EB9D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

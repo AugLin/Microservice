@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\Antra\\Microservice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EADB443B-2665-4D2A-B3F3-13F9FE4C1CF2}|ReviewMicroservice\\ReviewMicroservice.csproj|d:\\antra\\microservice\\reviewmicroservice\\controllers\\customerreviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EADB443B-2665-4D2A-B3F3-13F9FE4C1CF2}|ReviewMicroservice\\ReviewMicroservice.csproj|solutionrelative:reviewmicroservice\\controllers\\customerreviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4AABA9C-4EC1-412A-A1F7-B9202C4F614F}|PromotionService\\PromotionService.csproj|d:\\antra\\microservice\\promotionservice\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4AABA9C-4EC1-412A-A1F7-B9202C4F614F}|PromotionService\\PromotionService.csproj|solutionrelative:promotionservice\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4AABA9C-4EC1-412A-A1F7-B9202C4F614F}|PromotionService\\PromotionService.csproj|d:\\antra\\microservice\\promotionservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4AABA9C-4EC1-412A-A1F7-B9202C4F614F}|PromotionService\\PromotionService.csproj|solutionrelative:promotionservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4AABA9C-4EC1-412A-A1F7-B9202C4F614F}|PromotionService\\PromotionService.csproj|d:\\antra\\microservice\\promotionservice\\controllers\\promotioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4AABA9C-4EC1-412A-A1F7-B9202C4F614F}|PromotionService\\PromotionService.csproj|solutionrelative:promotionservice\\controllers\\promotioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4AABA9C-4EC1-412A-A1F7-B9202C4F614F}|PromotionService\\PromotionService.csproj|d:\\antra\\microservice\\promotionservice\\queueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4AABA9C-4EC1-412A-A1F7-B9202C4F614F}|PromotionService\\PromotionService.csproj|solutionrelative:promotionservice\\queueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CustomerReviewController.cs",
-              "DocumentMoniker": "D:\\Antra\\Microservice\\ReviewMicroservice\\Controllers\\CustomerReviewController.cs",
-              "RelativeDocumentMoniker": "ReviewMicroservice\\Controllers\\CustomerReviewController.cs",
-              "ToolTip": "D:\\Antra\\Microservice\\ReviewMicroservice\\Controllers\\CustomerReviewController.cs",
-              "RelativeToolTip": "ReviewMicroservice\\Controllers\\CustomerReviewController.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAswE0AAAAAAAAAAAAAAA==",
+              "Title": "ocelot.json",
+              "DocumentMoniker": "D:\\Antra\\Microservice\\PromotionService\\ocelot.json",
+              "RelativeDocumentMoniker": "PromotionService\\ocelot.json",
+              "ToolTip": "D:\\Antra\\Microservice\\PromotionService\\ocelot.json",
+              "RelativeToolTip": "PromotionService\\ocelot.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T21:21:35.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QueueService.cs",
+              "DocumentMoniker": "D:\\Antra\\Microservice\\PromotionService\\QueueService.cs",
+              "RelativeDocumentMoniker": "PromotionService\\QueueService.cs",
+              "ToolTip": "D:\\Antra\\Microservice\\PromotionService\\QueueService.cs",
+              "RelativeToolTip": "PromotionService\\QueueService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T18:48:20.486Z",
+              "WhenOpened": "2024-11-11T21:09:48.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Antra\\Microservice\\PromotionService\\Program.cs",
+              "RelativeDocumentMoniker": "PromotionService\\Program.cs",
+              "ToolTip": "D:\\Antra\\Microservice\\PromotionService\\Program.cs",
+              "RelativeToolTip": "PromotionService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T20:51:12.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PromotionController.cs",
+              "DocumentMoniker": "D:\\Antra\\Microservice\\PromotionService\\Controllers\\PromotionController.cs",
+              "RelativeDocumentMoniker": "PromotionService\\Controllers\\PromotionController.cs",
+              "ToolTip": "D:\\Antra\\Microservice\\PromotionService\\Controllers\\PromotionController.cs",
+              "RelativeToolTip": "PromotionService\\Controllers\\PromotionController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T20:48:30.488Z",
               "EditorCaption": ""
             }
           ]

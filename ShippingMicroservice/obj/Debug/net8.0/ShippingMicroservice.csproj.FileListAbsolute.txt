@@ -144,3 +144,4 @@ D:\Antra\Microservice\ShippingMicroservice\obj\Debug\net8.0\refint\ShippingMicro
 D:\Antra\Microservice\ShippingMicroservice\obj\Debug\net8.0\ShippingMicroservice.pdb
 D:\Antra\Microservice\ShippingMicroservice\obj\Debug\net8.0\ShippingMicroservice.genruntimeconfig.cache
 D:\Antra\Microservice\ShippingMicroservice\obj\Debug\net8.0\ref\ShippingMicroservice.dll
+D:\Antra\Microservice\ShippingMicroservice\obj\Debug\net8.0\ShippingMicroservice.sourcelink.json

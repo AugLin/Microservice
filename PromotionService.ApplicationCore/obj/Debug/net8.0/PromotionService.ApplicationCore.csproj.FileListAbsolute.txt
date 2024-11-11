@@ -1,0 +1,15 @@
+D:\Antra\Microservice\PromotionService.ApplicationCore\bin\Debug\net8.0\PromotionService.ApplicationCore.deps.json
+D:\Antra\Microservice\PromotionService.ApplicationCore\bin\Debug\net8.0\PromotionService.ApplicationCore.runtimeconfig.json
+D:\Antra\Microservice\PromotionService.ApplicationCore\bin\Debug\net8.0\PromotionService.ApplicationCore.dll
+D:\Antra\Microservice\PromotionService.ApplicationCore\bin\Debug\net8.0\PromotionService.ApplicationCore.pdb
+D:\Antra\Microservice\PromotionService.ApplicationCore\obj\Debug\net8.0\PromotionService.ApplicationCore.csproj.AssemblyReference.cache
+D:\Antra\Microservice\PromotionService.ApplicationCore\obj\Debug\net8.0\PromotionService.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Antra\Microservice\PromotionService.ApplicationCore\obj\Debug\net8.0\PromotionService.ApplicationCore.AssemblyInfoInputs.cache
+D:\Antra\Microservice\PromotionService.ApplicationCore\obj\Debug\net8.0\PromotionService.ApplicationCore.AssemblyInfo.cs
+D:\Antra\Microservice\PromotionService.ApplicationCore\obj\Debug\net8.0\PromotionService.ApplicationCore.csproj.CoreCompileInputs.cache
+D:\Antra\Microservice\PromotionService.ApplicationCore\obj\Debug\net8.0\PromotionService.ApplicationCore.sourcelink.json
+D:\Antra\Microservice\PromotionService.ApplicationCore\obj\Debug\net8.0\PromotionService.ApplicationCore.dll
+D:\Antra\Microservice\PromotionService.ApplicationCore\obj\Debug\net8.0\refint\PromotionService.ApplicationCore.dll
+D:\Antra\Microservice\PromotionService.ApplicationCore\obj\Debug\net8.0\PromotionService.ApplicationCore.pdb
+D:\Antra\Microservice\PromotionService.ApplicationCore\obj\Debug\net8.0\PromotionService.ApplicationCore.genruntimeconfig.cache
+D:\Antra\Microservice\PromotionService.ApplicationCore\obj\Debug\net8.0\ref\PromotionService.ApplicationCore.dll

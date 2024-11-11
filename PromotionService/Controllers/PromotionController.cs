@@ -1,7 +1,11 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Azure.Messaging.ServiceBus;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Azure.ServiceBus;
 using PromotionService.ApplicationCore.Entities;
 using PromotionService.ApplicationCore.Repositories;
+using System.Text;
+using System.Text.Json;
 
 namespace PromotionService.Controllers
 {
@@ -10,10 +14,11 @@ namespace PromotionService.Controllers
     public class PromotionController : ControllerBase
     {
         private readonly IPromotionSalesRepositoryAsync repository;
-
-        public PromotionController(IPromotionSalesRepositoryAsync repository)
+        QueueService queueService;
+        public PromotionController(IPromotionSalesRepositoryAsync repository, IConfiguration configuration)
         {
             this.repository = repository;
+            queueService = new QueueService(configuration);
         }
 
         [HttpGet]
@@ -25,7 +30,10 @@ namespace PromotionService.Controllers
         [HttpPost]
         public async Task<IActionResult> SaveNewPromotion(PromotionSales promotion)
         {
-            return Ok(await repository.InsertAsync(promotion));
+            await repository.InsertAsync(promotion);
+            await queueService.SendMessageAsync<PromotionSales>(promotion, "OrderQueue");
+
+            return Ok("Log send to the eventBus");
         }
 
         [HttpGet]

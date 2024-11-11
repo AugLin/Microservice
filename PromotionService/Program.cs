@@ -1,4 +1,6 @@
 using Microsoft.EntityFrameworkCore;
+using Ocelot.DependencyInjection;
+using Ocelot.Middleware;
 using PromotionService.ApplicationCore.Repositories;
 using PromotionService.Infrastructure.Data;
 using PromotionService.Infrastructure.Repositories;
@@ -15,14 +17,19 @@ builder.Services.AddDbContext<PromotionDbContext>(option => {
 
     option.UseSqlServer(builder.Configuration.GetConnectionString("PromotionDb"));
 
-
-
     //option.UseSqlServer(Environment.GetEnvironmentVariable("OrderDb"));
 
 });
+builder.Configuration.SetBasePath(builder.Environment.ContentRootPath)
+    .AddJsonFile("ocelot.json", false, true)
+    .AddEnvironmentVariables();
+
+builder.Services.AddOcelot(builder.Configuration);
 
 builder.Services.AddScoped<IPromotionSalesRepositoryAsync, PromotionSalesRepositoryAsync>();
 var app = builder.Build();
+
+await app.UseOcelot();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2nxjrNToA6s=",
+  "success": true,
+  "projectFilePath": "D:\\Antra\\Microservice\\RabbitMqHelper\\RabbitMqHelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\37426\\.nuget\\packages\\rabbitmq.client\\7.0.0\\rabbitmq.client.7.0.0.nupkg.sha512",
+    "C:\\Users\\37426\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
+    "C:\\Users\\37426\\.nuget\\packages\\system.threading.ratelimiting\\8.0.0\\system.threading.ratelimiting.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

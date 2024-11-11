@@ -144,3 +144,8 @@ D:\Antra\Microservice\OrderMicroService\obj\Debug\net8.0\refint\OrderMicroServic
 D:\Antra\Microservice\OrderMicroService\obj\Debug\net8.0\OrderMicroService.pdb
 D:\Antra\Microservice\OrderMicroService\obj\Debug\net8.0\OrderMicroService.genruntimeconfig.cache
 D:\Antra\Microservice\OrderMicroService\obj\Debug\net8.0\ref\OrderMicroService.dll
+D:\Antra\Microservice\OrderMicroService\obj\Debug\net8.0\OrderMicroService.sourcelink.json
+D:\Antra\Microservice\OrderMicroService\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\Antra\Microservice\OrderMicroService\bin\Debug\net8.0\RabbitMqHelper.dll
+D:\Antra\Microservice\OrderMicroService\bin\Debug\net8.0\RabbitMqHelper.pdb
+D:\Antra\Microservice\OrderMicroService\bin\Debug\net8.0\Newtonsoft.Json.dll

@@ -1,0 +1,47 @@
+name: dockercompose6673042620202005562
+services:
+  ordermicroservice:
+    build:
+      context: D:\Antra\Microservice
+      dockerfile: OrderMicroService/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+    image: ordermicroservice
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 8080
+        protocol: tcp
+  productmicroservice:
+    build:
+      context: D:\Antra\Microservice
+      dockerfile: ProductMicroservice/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+    image: productmicroservice
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 8080
+        protocol: tcp
+  promotionservice:
+    build:
+      context: D:\Antra\Microservice
+      dockerfile: PromotionService/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+    image: promotionservice
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 8080
+        protocol: tcp
+networks:
+  default:
+    name: dockercompose6673042620202005562_default

@@ -1,8 +1,12 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json;
 using OrderMicroservice.ApplicationCore.Entities;
 using OrderMicroservice.ApplicationCore.Repositories;
+using RabbitMqHelper;
 using System.Collections.Specialized;
+using System.Text.Json;
+using System.Text.Json.Serialization;
 
 namespace OrderMicroService.Controllers
 {
@@ -11,15 +15,18 @@ namespace OrderMicroService.Controllers
     public class OrderController : ControllerBase
     {
         private readonly IOrderRepositoryAsync _orderRepository;
+        private readonly MessageQueue _queue;
         public OrderController(IOrderRepositoryAsync repository)
         {
             _orderRepository = repository;
+            _queue = new MessageQueue("amqp://guest:guest@host.docker.internal:5672", "Order MicroService");
         }
 
         [HttpGet]
         [Route("GetAllOrders")]
         public async Task<IActionResult> GetAllOrders()
         {
+             
             return Ok(await _orderRepository.GetAllAsync());
         }
 
@@ -27,7 +34,8 @@ namespace OrderMicroService.Controllers
         [Route("SaveOrder")]
         public async Task<IActionResult> SaveOrder(Order order)
         {
-            return Ok(await _orderRepository.InsertAsync(order));
+            await _orderRepository.InsertAsync(order);
+            return Ok(Post(order));
         }
 
         [HttpGet]
@@ -64,6 +72,14 @@ namespace OrderMicroService.Controllers
         public async Task<IActionResult> UpdateOrder(Order order)
         {
             return Ok(await _orderRepository.UpdateAsync(order));
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Post(Order order)
+        {
+            var str = JsonConvert.SerializeObject(order);
+            _queue.AddMessageToQueueAsync(str, "OrderExchange", "OrderQueue", "custom-routing-key");
+            return Ok("Message has been added to queue");
         }
     }
 }
